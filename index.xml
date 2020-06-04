@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://964564277.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Mar 2020 19:26:03 +0800</lastBuildDate>
+    
+	<atom:link href="https://964564277.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>文章格式</title>
+      <link>https://964564277.github.io/post/blog/</link>
+      <pubDate>Wed, 04 Mar 2020 19:26:03 +0800</pubDate>
+      
+      <guid>https://964564277.github.io/post/blog/</guid>
+      <description>&lt;p&gt;文章格式&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;加个&amp;quot;&amp;gt;&amp;quot;在段落前面，表示这段文字为引用&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;http://upload-images.jianshu.io/upload_images/2662655-49661f8110a81ace.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240&#34; alt=&#34;我是图片，圆括号里的是图片地址&#34;&gt;&lt;/p&gt;
+&lt;p&gt;(下面这个&amp;rdquo;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
