@@ -12,6 +12,15 @@
     
     
     <item>
+      <title>文章</title>
+      <link>https://964564277.github.io/post/ceshi/</link>
+      <pubDate>Wed, 04 Mar 2020 19:26:03 +0800</pubDate>
+      
+      <guid>https://964564277.github.io/post/ceshi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>文章格式</title>
       <link>https://964564277.github.io/post/blog/</link>
       <pubDate>Wed, 04 Mar 2020 19:26:03 +0800</pubDate>
@@ -27,16 +36,16 @@
     
     <item>
       <title>html - html5 audio 音乐自动播放，循环播放等9款播放器</title>
-      <link>https://964564277.github.io/post/blog2/</link>
+      <link>https://964564277.github.io/post/blog3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://964564277.github.io/post/blog2/</guid>
+      <guid>https://964564277.github.io/post/blog3/</guid>
       <description>说明
- 随着HTML5越来越流行，越来越规范，音频播放支持和兼容改的平台越来越多，这里找到HTML5 通过 audio 元素来提供在网页中嵌入音频的标准方法，下面这9款 HTML5 音频播放器都是基于 audio 元素开发的，能够帮助你在网页中轻松的嵌入音频。
+ 随着HTML5越来越流行，越来越规范了，音频播放支持和兼容改的平台越来越多，这里找到HTML5 通过 audio 元素来提供在网页中嵌入音频的标准方法了，下面这9款 HTML5 音频播放器都是基于 audio 元素开发的，能够帮助你在网页中轻松的嵌入音频。
 列表
 　　jPlayer 一款基于 jQuery 的免费开源的 HTML5 音频和视频播放插件，API 简单，支持自定义皮肤。
 　→ 访问网站：http://jplayer.org/
- 　MediaElement 是一款支持播放音频和视频的播放器，使用纯 HTML5 和 CSS 编写，在旧的浏览器中会能降级到 Flash 或者 Silverlight 播放。Media Element 还可以定制皮肤，为主流的平台通了插件，例如 WordPress、Drupal、Joomla 等等。
+ 　MediaElement 是一款支持播放音频和视频的播放器，使用纯 HTML5 和 CSS 编写，在旧的浏览器中会能降级到 Flash 或者 Silverlight 播放。Media Element 还可以定制皮肤，为主流的平台通了插件的，例如 WordPress、Drupal、Joomla 等等。
 　→ 访问网站：http://mediaelementjs.com/
  　这款 HTML5 音频播放器非常的简洁，由 Scott Andrew 开发，如果你不需要播放列表，也不需要花哨的效果，那么可以选择它。 一些事
 　→ 访问网站：http://www.scottandrew.com/pub/html5audioplayer/
